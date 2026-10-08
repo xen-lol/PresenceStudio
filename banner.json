@@ -1,0 +1,7 @@
+{
+  "enabled": true,
+  "title": "Presence Studio v1.0.5",
+  "message": "New themes are now available!",
+  "buttonText": "View Update",
+  "buttonUrl": "https://github.com/xen-lol/PresenceStudio/releases/latest"
+}
