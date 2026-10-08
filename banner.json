@@ -1,7 +1,7 @@
 {
-  "enabled": true,
+  "enabled": false,
   "title": "Presence Studio v1.1",
   "message": "Welcome to Presence Studio first OFFICAL release!! view changelog:",
-  "buttonText": "Latest Update",
-  "buttonUrl": "https://github.com/xen-lol/PresenceStudio/releases/latest"
+  "buttonText": "changelog",
+  "buttonUrl": "https://github.com/xen-lol/PresenceStudio/blob/main/changelog.md"
 }
