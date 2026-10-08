@@ -1,7 +1,7 @@
 {
   "enabled": true,
-  "title": "Presence Studio v1.0.5",
-  "message": "Happy Halloween Presence Studio Users!! excpect new updates soon!!!",
-  "buttonText": "Github",
+  "title": "Presence Studio v1.1",
+  "message": "Welcome to Presence Studio first OFFICAL release!! this is an example of the banner!",
+  "buttonText": "Latest Update",
   "buttonUrl": "https://github.com/xen-lol/PresenceStudio/releases/latest"
 }
