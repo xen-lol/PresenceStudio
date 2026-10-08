@@ -1,7 +1,11 @@
 # Changelog:
-added new banner,
-new themes + make your own themes,
-banner updates every restart of Presence Studio,
-please report any bugs to 'https://discord.gg/NQsEfz5yHB'.
+Fixes:
+-Fixed the bug where 'Check For Updates' wouldnt be shown
 
-known issue: sometimes the banner will not show until about 5 mins in the app, working to fix both.
+-Fixed the bug where 'New Theme' button wouldnt be shown
+
+-Fixed the bug where the '*NEW' tag wouldnt put the newest theme above every other theme
+
+Added:
+
+Nothing. Mainly bug fixed in this one.
